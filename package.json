@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "Soundworker",
+  "version": "1.0.0",
+  "description": "CF Worker for text-to-speech",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Otto Siikasmaa",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

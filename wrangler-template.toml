@@ -1,0 +1,7 @@
+# Rename file to wrangler.toml before publishing
+
+account_id = ""
+zone_id = ""
+type = "javascript"
+workers_dev = true
+name = "soundworker"
